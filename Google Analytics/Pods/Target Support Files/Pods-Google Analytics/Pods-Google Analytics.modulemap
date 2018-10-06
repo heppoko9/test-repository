@@ -1,0 +1,6 @@
+framework module Pods_Google_Analytics {
+  umbrella header "Pods-Google Analytics-umbrella.h"
+
+  export *
+  module * { export * }
+}
